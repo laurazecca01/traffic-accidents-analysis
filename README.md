@@ -4,6 +4,8 @@ This project explored road accident data in London to develop insights for a pot
 This was a group project from university, I worked indivudally on the first research quesiton where I plotted traffic accidents as a network object (RFQ1 in the html), as well as the slides and editing of our recording (preview without spoken recording below).
 The goal of this project was to leverage data visualization and spatial analysis techniques to understand patterns in road accidents across London. The insights can guide the development of safer routing options by highlighting accident-prone areas and understanding their causes.
 
+<img src="https://github.com/laurazecca01/traffic-accidents-analysis/blob/main/Beginning%20of%20presentation.gif?raw=true" alt="Traffic Accidents Analysis" width="600"/>
+
 This analysis combines:
 - Accident severity data
 - Traffic volume data
