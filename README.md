@@ -28,7 +28,7 @@ We use the London street network to visualize high-risk areas and discuss its po
 Heatmaps compare traffic volume and accident density, highlighting a correlation in Central London and anomalies in East London.
 ### **London Street Network with Accident Data**
 A mapped network graph displaying accident hotspots on London’s road network, providing a foundation for routing optimization.  
-![Network Map](visualizations/london_road_network.png)
+<img src="https://github.com/laurazecca01/traffic-accidents-analysis/blob/main/Accidents%20in%20London.png?raw=true" alt="Network Map" width="800"/>
 
 ---
 
