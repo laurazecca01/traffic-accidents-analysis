@@ -1,7 +1,7 @@
 # Road Accident Analysis and Safety Routing Visualization for London 🚖
 
 This project explored road accident data in London to develop insights for a potential **Google Maps safety routing feature**. By analyzing accident hotspots, traffic data, and network mapping, we aim to identify high-risk areas and provide optimized routing to enhance safety. The data used for this project was sourced from Kaggle and the UK Department for Transport.
-This was a group project from university, I worked indivudally on the slides and the first research quesiton where I plotted traffic incidents as a network object (RFQ1 in the html).
+This was a group project from university, I worked indivudally on the slides and the first research quesiton where I plotted traffic accidents as a network object (RFQ1 in the html).
 The goal of this project was to leverage data visualization and spatial analysis techniques to understand patterns in road accidents across London. The insights can guide the development of safer routing options by highlighting accident-prone areas and understanding their causes.
 
 This analysis combines:
